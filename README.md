@@ -24,7 +24,7 @@ The drone is built on a custom 250mm carbon fiber frame, featuring a high-perfor
 | **Propellers** | **Gemfan 5147 (3-blade)** | Efficient 5-inch props |
 | **RC System** | **RadioLink AT9S Pro + R12DSM** | Reliable control link |
 
-📄 **For a complete list of parts, cables, and tools, please check the [BOM List](./BOM.md).**
+📄 **For a complete list of parts, cables, and tools, please check the [BOM List](./BOM.xlsx).**
 
 ## 🗺️ Roadmap & Versions
 
@@ -50,7 +50,5 @@ The drone is built on a custom 250mm carbon fiber frame, featuring a high-perfor
 ## 📂 Repository Structure
 ```text
 .
-├── BOM.csv             # Detailed Hardware Bill of Materials
-├── docs/               # System diagrams and design notes
-├── scripts/            # (Coming Soon) Setup scripts for Jetson
+├── BOM.xlsx             # Detailed Hardware Bill of Materials
 └── README.md           # This file
